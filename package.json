@@ -1,0 +1,21 @@
+{
+  "name": "js-event-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BVSureshBabu/js-event-loop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BVSureshBabu/js-event-loop/issues"
+  },
+  "homepage": "https://github.com/BVSureshBabu/js-event-loop#readme"
+}
